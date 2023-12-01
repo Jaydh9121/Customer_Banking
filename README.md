@@ -1,4 +1,4 @@
-# Customer_Banking
+# Customer Banking
 This Python application is designed to simulate a banking system, allowing users to manage Savings and CD (Certificate of Deposit) accounts. The program calculates interest earned based on user input and updates account balances accordingly.
 
 # Features
